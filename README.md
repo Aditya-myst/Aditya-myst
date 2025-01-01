@@ -1,4 +1,4 @@
- 💫 About Me:
+# 💫 About Me:
  Hi, I'm Aditya Kumar, a passionate software developer and techie with a focus on solving algorithmic challenges and building impactful solutions.<br> Currently, I specialize in C++, React, and Three.js, while exploring full-stack development, AI, and Web3.<br>I enjoy exploring the intersection of technology and creativity.<br>I'm always looking for ways to solve real-world problems with technology. <br>I am also deeply interested in the startup ecosystem and aspire to build and scale innovative startups.<br> Whether it's developing cutting-edge software or creating new business solutions, <br>I’m constantly striving to turn ideas into tangible results.<br>My goal is to eventually launch my own tech startup, creating solutions that make a difference.<br> If you're interested in collaborating or sharing ideas on tech, startups, or innovation, <br>let's connect<br>
 
 
