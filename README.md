@@ -102,8 +102,7 @@ Smart financial assistant that helps users make better financial decisions using
 
 ## 🌐 Connect With Me
 
-- 📸 Instagram → https://instagram.com/abhi_kashyap007  
-- 💼 LinkedIn → https://linkedin.com/in/adityathiside  
+- 📸 Instagram → https://instagram.com/abhi_kashyap00- 💼 LinkedIn → https://linkedin.com/in/adityathiside  
 
 ---
 
