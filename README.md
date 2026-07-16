@@ -1,3 +1,6 @@
+  <img width="540" height="540" alt="221256" src="https://github.com/user-attachments/assets/a5f6ccc7-25f8-45da-9807-b364a8bdc612" />
+
+
 #  Aditya Kumar Jha
 
 ### Building AI-powered products, scalable systems & future startups.
