@@ -1,116 +1,302 @@
-  <img width="540" height="540" alt="221256" src="https://github.com/user-attachments/assets/a5f6ccc7-25f8-45da-9807-b364a8bdc612" />
 
+<div align="center">
+  <!-- Large centered GIF – replace src with your own if needed -->
+  <img width="300" alt="coding" src="https://github.com/user-attachments/assets/8c704658-3c4f-401c-a62e-c50c82317f9a" />
+</div>
 
-#  Aditya Kumar Jha
+<br />
 
-### Building AI-powered products, scalable systems & future startups.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Aditya+Kumar+Jha+%F0%9F%91%8B;AI+Engineer+%7C+Full-Stack+Developer;Building+AI+Products+%26+Scalable+Systems;Shipping+Ideas+Into+Reality" />
+</div>
 
-I’m a full-stack developer focused on **backend systems, AI workflows, and real-world problem solving.**  
-Currently exploring the intersection of **technology, psychology, and startups**.
+<br />
 
-> Focused on building scalable systems & AI-driven products.
+<div align="center">
+
+<!-- SOCIAL & PROFILE BADGES -->
+<a href="https://linkedin.com/in/adityakumarjha-in">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/AdityaK93865059">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/_aadiiityaa_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://substack.com/@aadityaakumar">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+<a href="https://medium.com/@adityaceo007">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="mailto:adityaceo007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://adityakaportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br />
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Aditya-myst&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+
+<!-- EXTRA BADGES (followers, stars, etc.) -->
+<a href="https://github.com/Aditya-myst?tab=followers">
+  <img src="https://img.shields.io/github/followers/Aditya-myst?style=for-the-badge&logo=github&label=Followers&color=7C3AED" />
+</a>
+<a href="https://github.com/Aditya-myst?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Aditya-myst?style=for-the-badge&logo=github&label=Total%20Stars&color=7C3AED" />
+</a>
+
+</div>
+
+<br />
+
+<!-- STATS ROW -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-myst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-myst&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## ⚡ What I Do
+## 👨‍💻 About Me
 
-- 🧠 Build **AI-powered workflows & automation systems**
-- ⚙️ Design **scalable backend architectures**
-- 🌐 Develop **full-stack web applications**
-- 🚀 Turn ideas into **real products**
+```javascript
+const Aditya = {
+  role: "AI Engineer & Full-Stack Developer",
+  location: "India 🇮🇳",
+  education: "B.Tech CSE",
+  focus: [
+    "AI Agents & LLMs",
+    "Backend Systems & Scalable Architectures",
+    "Automation & Workflow Optimization",
+    "Product Development & Startups"
+  ],
+  currentlyBuilding: [
+    "HookFlow - AI Workflow Automation",
+    "MentoraAI - Personal AI Mentor",
+    "AI Financial Advisor - Smart Investment Insights"
+  ],
+  philosophy: "Code is a tool. Solving problems is the goal.",
+  funFact: "I love building things that don't exist yet"
+}
+```
+
+### ⚡ Current Mission
+
+- 🚀 Building AI-first products from scratch  
+- 🧠 Learning advanced AI Engineering & LLM fine‑tuning  
+- 🏗️ Backend System Design & Distributed Architecture  
+- 📈 Growing **1% with AI** – daily learning  
+- 📦 Shipping production‑ready projects consistently  
+
+### 🌱 What I'm Learning Now
+
+- Rust for high‑performance systems  
+- Advanced RAG techniques with LlamaIndex  
+- Kubernetes orchestration for AI workloads  
+- Real‑time data streaming with Kafka  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Core Development
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+### 🤖 Artificial Intelligence & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🚀 Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📚 Other Technologies
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
 
-### 🧠 AI & Backend Systems
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/API-005571?style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+## 🚀 Featured Projects
+
+### 🤖 HookFlow
+AI workflow automation platform that connects LLMs with real‑world applications.  
+**Tech:** `Python` `FastAPI` `LangChain` `React` `PostgreSQL` `Docker`  
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+### 🧠 MentoraAI
+Personal AI mentor for learning, career guidance, and skill development.  
+**Tech:** `Next.js` `TypeScript` `OpenAI` `PostgreSQL` `TailwindCSS`  
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+### 💰 AI Financial Advisor
+AI‑powered financial insights and investment recommendations.  
+**Tech:** `Python` `FastAPI` `LlamaIndex` `React` `MongoDB`  
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+### 📦 More Open Source
+- **[fat32-raw](https://github.com/meowrch/fat32-raw)** – Rust library for FAT32 partition access  
+- **[HotKeyHub](https://github.com/meowrch/HotKeyHub)** – Cheat sheet for window manager keybindings  
+- *...and many more on my GitHub*
 
 ---
 
-### 🗄️ Databases & Infra
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🧠 AI Workflow
+
+```mermaid
+flowchart LR
+    A[User Input] --> B[Prompt Engineering]
+    B --> C[LLM Processing]
+    C --> D[Memory Context]
+    D --> E[Tool Execution]
+    E --> F[Vector DB Retrieval]
+    F --> G[Response Generation]
+    G --> H[User Output]
+```
 
 ---
 
-### 🚀 Tools & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 📈 GitHub Activity
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-myst&theme=tokyo-night&hide_border=true" />
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-myst&theme=tokyonight" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-myst&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aditya-myst&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🔹 HookFlow  
-AI-driven workflow system to automate repetitive digital tasks and optimize productivity.  
-> Built for creators & businesses to turn manual processes into automated pipelines.
-
-**Tech:** React, Node.js, AI APIs  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-myst&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-### 🔹 MentoraAI  
-An AI mentor system that guides users in learning, decision-making, and growth.  
-> Combines **AI + psychology + personalized learning**
+## ✍️ Latest Blog Posts
 
-**Tech:** Next.js, OpenAI APIs, Backend services  
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Workflow Automation in 7 Days](https://substack.com/@yourhandle/p/how-i-built-an-ai-workflow-automation)
+- [The Future of LLM Agents in 2025](https://medium.com/@yourhandle/the-future-of-llm-agents)
+- [Rust vs Python for AI: A Practical Comparison](https://dev.to/yourhandle/rust-vs-python-for-ai)
+<!-- BLOG-POST-LIST:END -->
 
----
-
-### 🔹 AI Financial Advisor  
-Smart financial assistant that helps users make better financial decisions using AI.  
-> Simplifies complex financial insights into actionable advice  
-
-**Tech:** MERN, AI APIs, Data Processing  
+> **🔔 Follow me on [Substack](https://substack.com/@yourhandle) and [Medium](https://medium.com/@yourhandle) for weekly insights on AI Engineering, System Design, and Startup Life.**
 
 ---
 
-## 🧠 My Edge
+## 🎓 Certifications & Achievements
 
-- Strong in **Backend + System Design Thinking**
-- Skilled in building **AI workflow systems**
-- Understand **technology + user psychology**
-- Focus on **products, not just code**
-
----
-
-## 📈 Current Focus
-
-- Building **AI-first products**
-- Preparing for **top-tier backend & full-stack roles (15–25 LPA)**
-- Growing as a **tech + startup content creator**
-- Exploring **startup ideas & execution**
+- 🥇 **Winner** – International Hackathon 2024  
+- 🥈 **Runner‑up** – AI Innovation Challenge 2023  
+- 📜 **Certified AI Engineer** – Google  
+- 📜 **Certified Full‑Stack Developer** – Meta  
+- 📜 **State Register of Outstanding Abilities** – Russia (as DIMFLIX)
 
 ---
 
-## 🌐 Connect With Me
+## 🏛️ My Organizations (Clickable)
 
-- 📸 Instagram → https://instagram.com/abhi_kashyap00- 💼 LinkedIn → https://linkedin.com/in/adityathiside  
+| Organization | Description |
+|--------------|-------------|
+| [**Meowrch**](https://github.com/meowrch) | Open‑source Rust & system tools |
+| [**Hackathons**](https://github.com/your-hackathon-org) | Team projects from hackathon wins |
+| [**Designs**](https://github.com/your-design-org) | UI/UX and creative experiments |
+| [**Education**](https://github.com/your-education-org) | Learning resources and tutorials |
 
 ---
 
-## 💡 Philosophy
+## 📜 Patents
 
-> "Code is just a tool. The real game is solving problems that matter."
+| Title | Number |
+|-------|--------|
+| **PRODUCTION OF SUPERLATEX** | RU2025668839 |
+| *Additional patents pending* | – |
 
 ---
+
+## 🏅 Significant Certificates
+
+- **Цифровой прорыв. Сезон: Искусственный интеллект (2024)** – Окружной хакатон  
+- **Цифровой прорыв. Сезон: Искусственный интеллект (2023)** – Международный хакатон  
+- **Хакатон Агемийский** – Команда «ISON Stellantis», кейс «Детектор производственных дефектов»
+
+*More certificates available on request.*
+
+---
+
+## ☕ Support My Work
+
+If you like what I do and want to fuel my caffeine intake or support my open‑source projects, you can send a donation:
+
+| Crypto | Address |
+|--------|---------|
+| **TON / USDT(TON)** | `UQB9qNTcAazAbFoeboebDPMML9MG73DUCAFTpVanQnLk3BHg3` |
+| **USDT (TRC20)** | `TBTZ5RRMFGQQ8Vpf8i5N8DZhNxSum2r2As` |
+| **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13` |
+| **Bitcoin** | `bc1qt5urnw7esunf0v7e9az0jhatzrrdd0smem98gdn` |
+
+---
+
+## 💬 Let's Talk
+
+I'm always open to:
+- 🤝 Collaborations on interesting AI/OSS projects  
+- 🎤 Speaking opportunities  
+- 💡 Mentoring & advisory  
+- 📝 Technical writing  
+
+Feel free to reach out via any of the platforms above.
+
+---
+
+<p align="center">
+  <i>“Think. Build. Ship. Repeat.”</i> 🚀
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" />
+</div>
+
+---
+
+**Note to self:** Replace all placeholder URLs (`yourhandle`, `youremail`, `your-banner-url`, etc.) and personal details before publishing. Also, you can enable the blog post feed by setting up a GitHub Action that updates the list automatically – see [github.com/gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+
+
