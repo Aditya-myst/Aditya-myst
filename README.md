@@ -1,4 +1,3 @@
-
 <div align="center">
   <!-- Large centered GIF – replace src with your own if needed -->
   <img width="300" alt="coding" src="https://github.com/user-attachments/assets/8c704658-3c4f-401c-a62e-c50c82317f9a" />
