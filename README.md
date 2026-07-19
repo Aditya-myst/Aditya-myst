@@ -206,6 +206,7 @@ AI-powered financial insights and investment recommendations.
 
 I'm always open to:
 - 🤝 Collaborations on AI / open-source projects
+- Builder 
 - 🎤 Speaking opportunities
 - 💡 Mentoring & advisory
 - 📝 Technical writing
