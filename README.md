@@ -82,8 +82,8 @@ const Aditya = {
 
 ### ⚡ Current Mission
 
-- 🚀 Building AI-first products from scratch
-- 🧠 Learning advanced AI Engineering & LLM fine-tuning
+- 🚀 Building AI-first products.
+- 🧠 Learning advanced Agentic AI Engineering .
 - 🏗️ Backend system design & distributed architecture
 - 📈 Growing **1% with AI** — daily learning, shared in public
 - 📦 Shipping production-ready projects consistently
