@@ -82,11 +82,11 @@ const Aditya = {
 
 ### ⚡ Current Mission
 
-- 🚀 Building AI-first products.
-- 🧠 Learning advanced Agentic AI Engineering .
-- 🏗️ Backend system design & distributed architecture
-- 📈 Growing **1% with AI** — daily learning, shared in public
-- 📦 Shipping production-ready projects consistently
+-  Building AI-first products.
+-  Learning advanced Agentic AI Engineering .
+-  Backend system design & distributed architecture
+-  Growing **1% with AI** — daily learning, shared in public
+-  Shipping production-ready projects consistently
 
 ### 🌱 Currently Learning
 
@@ -140,24 +140,24 @@ const Aditya = {
 
 ## 🚀 Featured Projects
 
-### 🤖 HookFlow
+### HookFlow
 AI workflow automation platform that connects LLMs with real-world applications.
 **Tech:** `Python` `FastAPI` `LangChain` `React` `PostgreSQL` `Docker`
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-### 🧠 MentoraAI
+### MentoraAI
 Personal AI mentor for learning, career guidance, and skill development.
 **Tech:** `Next.js` `TypeScript` `OpenAI` `PostgreSQL` `TailwindCSS`
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-### 💰 AI Financial Advisor
+### AI Financial Advisor
 AI-powered financial insights and investment recommendations.
 **Tech:** `Python` `FastAPI` `LlamaIndex` `React` `MongoDB`
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS:START -->
 | Repository | Contribution | Merged |
