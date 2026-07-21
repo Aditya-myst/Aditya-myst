@@ -165,7 +165,7 @@ AI-powered financial insights and investment recommendations.
 
 ## 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-myst&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-myst" />
 
 ## 🏆 GitHub Trophies
 <div align="center">
