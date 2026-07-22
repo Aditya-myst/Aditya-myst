@@ -188,7 +188,7 @@ AI-powered financial insights and investment recommendations.
 </td>
 
 <td align="center">
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f1cbe0b8-a65f-451b-8b59-70b1d8b7edab" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f1cbe0b8-a65f-451b-8b59-70b1d8b7edab" /><br>
 <b>🤙 YOLO</b>
 </td>
 
