@@ -52,7 +52,7 @@
 <br />
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Aditya-myst&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&background=382C34"/>
+<img src="https://streak-stats.demolab.com/?user=Aditya-myst&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&background=382C34"/>
 </div>
 
 ---
