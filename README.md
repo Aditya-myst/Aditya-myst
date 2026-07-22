@@ -186,6 +186,12 @@ AI-powered financial insights and investment recommendations.
 <img width="100" height="100" alt="Pull Shark" src="https://github.com/user-attachments/assets/cd8ad434-0109-4c04-88f7-6727e0839273" /><br>
 <b>🦈 Pull Shark</b>
 </td>
+
+<td align="center">
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/f1cbe0b8-a65f-451b-8b59-70b1d8b7edab" />
+<b>🤙 YOLO</b>
+</td>
+
 </tr>
 </table>
 
