@@ -173,22 +173,22 @@ AI-powered financial insights and investment recommendations.
 <table>
 <tr>
 <td align="center">
-<img width="100" height="100" alt="Extraordinaire" src="https://github.com/user-attachments/assets/23fe8d5c-107b-4b6c-8b1a-4d28fbbce17e" /><br>
+<img width="120" height="120" alt="Extraordinaire" src="https://github.com/user-attachments/assets/23fe8d5c-107b-4b6c-8b1a-4d28fbbce17e" /><br>
 <b>🏆Pair Extraordinaire</b>
 </td>
 
 <td align="center">
-<img width="100" height="100" alt="Quickdraw" src="https://github.com/user-attachments/assets/0fc4a17b-dc25-40c5-aaf6-10acf2c83e6f" /><br>
+<img width="120" height="120" alt="Quickdraw" src="https://github.com/user-attachments/assets/0fc4a17b-dc25-40c5-aaf6-10acf2c83e6f" /><br>
 <b>⚡ Quickdraw</b>
 </td>
 
 <td align="center">
-<img width="100" height="100" alt="Pull Shark" src="https://github.com/user-attachments/assets/cd8ad434-0109-4c04-88f7-6727e0839273" /><br>
+<img width="120" height="120" alt="Pull Shark" src="https://github.com/user-attachments/assets/cd8ad434-0109-4c04-88f7-6727e0839273" /><br>
 <b>🦈 Pull Shark</b>
 </td>
 
 <td align="center">
-<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/f1cbe0b8-a65f-451b-8b59-70b1d8b7edab" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f1cbe0b8-a65f-451b-8b59-70b1d8b7edab" />
 <b>🤙 YOLO</b>
 </td>
 
