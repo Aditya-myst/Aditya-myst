@@ -65,7 +65,7 @@ const Aditya = {
   location: "India 🇮🇳",
   education: "B.Tech CSE, Bennett University",
   focus: [
-    "AI Agents & LLMs",
+    "AI Agents & LLMs  ",
     "Backend Systems & Scalable Architectures",
     "Automation & Workflow Optimization",
     "Product Development & Startups"
