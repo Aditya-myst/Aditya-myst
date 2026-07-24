@@ -204,7 +204,7 @@ AI-powered financial insights and investment recommendations.
 ## 💬 Let's Talk
 
 I'm always open to:
-- 🤝 Collaborations on AI / open-source projects
+- 🤝 Welcome for Collaborations on AI / open-source projects
 - Builder 
 - 🎤 Speaking opportunities
 - 💡 Mentoring & advisory
